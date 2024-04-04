@@ -4,7 +4,7 @@
 ![preview2](./.github/preview2.png)
 
 
-[🔗 Clique aqui para acessar](https://leonardo21042006.github.io/LADING-PAGE/)
+[🔗 Clique aqui para acessar](https://leonardo21042006.github.io/Card-com-botao-de-ler-mais-e-menos/)
 
 ## 🛠️ Tecnologias 
 
